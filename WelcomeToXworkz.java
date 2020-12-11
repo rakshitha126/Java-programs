@@ -1,10 +1,8 @@
 
-public class Main1 {
+public class WelcomeToXworkz {
 
 	public static void main(String[] args) {
-		int num=5;
-		boolean bool = true;
-	System.out.println("num \nbool");
+		System.out.println("Hello");
 		// TODO Auto-generated method stub
 
 	}
